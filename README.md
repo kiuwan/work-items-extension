@@ -1,4 +1,9 @@
 # work-items-extension
-Azure DevOps extension to create work items from Kiuwan vulnerabilities coming from action plans and failed audits
 
-Under development. Stay tuned for updates. Watch this repo to get notifications.
+> **This repository has moved to a new public location.**
+
+The source code for this project is now maintained at:
+
+## [https://github.com/sembi-oss/work-items-extension](https://github.com/sembi-oss/work-items-extension)
+
+Please update your bookmarks, forks, and any references to point to the new address.
